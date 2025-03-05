@@ -7,7 +7,7 @@
 
 
 <br> I’m currently learning python<br>
-<br> I'm trying to improve myself in mobile application
+<br> I'm trying to improve myself in Mobile Application
 
 
 
