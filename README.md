@@ -6,7 +6,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 
-<br> I’m currently learning python<br> Ask me about  " NOTHİNG "<br> 
+<br> I’m currently learning python<br>
 <br> I'm trying to improve myself in mobile application
 <br> Ask me about  " NOTHİNG "<br> 
 
