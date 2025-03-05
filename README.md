@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there!</h1>
-<h1 align="center"> I'm Ziya ekiz</h1>
+<h1 align="center"> I'm Oğulcan Narin</h1>
 <h3 align="center">I'm God's alone man</h3>
 
 
