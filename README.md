@@ -7,6 +7,9 @@
 
 
 <br> I’m currently learning python<br> Ask me about  " NOTHİNG "<br> 
+<br> I'm trying to improve myself in mobile application
+<br> Ask me about  " NOTHİNG "<br> 
+
 
 
 ## 🌐 Socials:
