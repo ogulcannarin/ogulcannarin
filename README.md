@@ -7,6 +7,7 @@
 
 <br> I’m currently learning python<br>
 <br> I'm trying to improve myself in Mobile Application
+![Snake Game](https://your-gif-link-here.gif)
 
 
 
