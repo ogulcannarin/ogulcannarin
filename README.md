@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Merhaba! Ben Oğulcan Narin</h1>
-  <h3>Teknoloji ve inovasyon tutkunu bir geliştiriciyim!</h3>
+  <h3>Benim dilim kelimelerim kadar!</h3>
 </div>
 
 <p align="center">
