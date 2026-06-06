@@ -13,7 +13,7 @@
 
 * 🐍 Şu anda **Python** ile backend teknolojilerine odaklanıyorum.
 * 📱 **Mobil Uygulama Geliştirme** (özellikle Kotlin) alanında kendimi geliştiriyorum.
-* 🤖 Yapay zeka, veri bilimi ve otomasyon (n8n) konularına büyük ilgi duyuyorum.
+* 🤖 Yapay zeka, veri bilimi, yapay zeka ajanlarına ve otomasyon (n8n) konularına büyük ilgi duyuyorum.
 
 ---
 
